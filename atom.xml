@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GranKain</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://blog.autumnbin.com/"/>
+  <updated>2018-03-16T09:06:36.000Z</updated>
+  <id>http://blog.autumnbin.com/</id>
+  
+  <author>
+    <name>GranKain</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>blog1</title>
+    <link href="http://blog.autumnbin.com/2016/08/25/test/"/>
+    <id>http://blog.autumnbin.com/2016/08/25/test/</id>
+    <published>2016-08-25T10:50:03.000Z</published>
+    <updated>2018-03-16T09:06:36.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>我的第一篇文章！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;我的第一篇文章！&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="test" scheme="http://blog.autumnbin.com/tags/test/"/>
+    
+  </entry>
+  
+</feed>
